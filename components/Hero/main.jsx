@@ -29,7 +29,7 @@ const Main = () => {
               <h1 className="font-semibold text-center text-purple lg:text-left text-3xl lg:text-4xl 2xl:text-7xl leading-[4rem]">
                 <Typewriter
                   options={{
-                    strings: ["2WI | Women Week of innovation"],
+                    strings: ["2WI | Women's Weekend of innovation"],
                     autoStart: true,
                     loop: true,
                   }}
